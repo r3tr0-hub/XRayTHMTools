@@ -1,0 +1,8 @@
+LIBRARY XRayTHMLister
+EXPORTS
+ ListLoad=_ListLoad@12
+ ListLoadW=_ListLoadW@12
+ ListLoadNext=_ListLoadNext@16
+ ListLoadNextW=_ListLoadNextW@16
+ ListCloseWindow=_ListCloseWindow@4
+ ListGetDetectString=_ListGetDetectString@8

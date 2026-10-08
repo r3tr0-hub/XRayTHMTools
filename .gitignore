@@ -1,0 +1,11 @@
+/build/
+/dist/
+*.dll
+*.exe
+*.obj
+*.pdb
+*.bgra
+/build32/
+/build64/
+*.wlx
+*.wlx64

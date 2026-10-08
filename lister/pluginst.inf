@@ -1,0 +1,5 @@
+[plugininstall]
+description=X-Ray THM Tools 0.4.0-beta - object previews, texture settings and editor
+type=wlx
+file=XRayTHMLister.wlx
+defaultdir=XRayTHMLister
